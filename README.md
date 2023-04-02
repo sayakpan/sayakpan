@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sayakpan
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++, Java and Python
 - 📫 I'm a beginner and continuously learning to be better
 
 <!---
